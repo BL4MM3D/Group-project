@@ -1,0 +1,33 @@
+2025-06-09 16:32:42,608 - ERROR - Add movie error: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:32:42,608 - ERROR - Add movie error: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:32:42,639 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:32:52,663 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:32:54,613 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:33:00,596 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:33:05,528 - ERROR - Add movie error: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:33:05,528 - ERROR - Add movie error: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:33:05,538 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:33:10,236 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:33:19,695 - ERROR - Get showtimes error: no such column: showtime
+2025-06-09 16:36:25,296 - INFO - Database initialized successfully
+2025-06-09 16:36:25,296 - ERROR - Failed to add movie Avengers: Endgame: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:36:25,296 - ERROR - Failed to add movie The Matrix: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:36:25,296 - ERROR - Failed to add movie Inception: table movies has 1 columns but 2 values were supplied
+2025-06-09 16:36:25,296 - ERROR - Failed to add showtime 10:00 AM for Avengers: Endgame: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,296 - ERROR - Failed to add showtime 2:00 PM for Avengers: Endgame: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - ERROR - Failed to add showtime 6:00 PM for Avengers: Endgame: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - ERROR - Failed to add showtime 12:00 PM for The Matrix: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - ERROR - Failed to add showtime 4:00 PM for The Matrix: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - ERROR - Failed to add showtime 11:00 AM for Inception: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - ERROR - Failed to add showtime 3:00 PM for Inception: table showtimes has 2 columns but 3 values were supplied
+2025-06-09 16:36:25,297 - INFO - Sample data initialized
+2025-06-09 16:36:25,302 - INFO - Seat layout cleared
+2025-06-09 16:36:25,302 - ERROR - Failed to retrieve showtimes for Avengers: no such column: id
+2025-06-09 16:36:27,520 - INFO - GUI created successfully
+2025-06-09 16:36:27,520 - INFO - Application initialized successfully
+2025-06-09 16:36:31,292 - INFO - Seat layout cleared
+2025-06-09 16:36:31,293 - ERROR - Failed to retrieve showtimes for Inception: no such column: id
+2025-06-09 16:37:14,429 - INFO - Seat layout cleared
+2025-06-09 16:37:14,429 - ERROR - Failed to retrieve showtimes for Avengers: no such column: id
+2025-06-09 16:37:16,955 - INFO - Database connection closed
+2025-06-09 16:37:16,972 - INFO - Application closed
